@@ -1,0 +1,188 @@
+Test Case ID: 		TC-001.01 - PASSED
+Title Expected/Actual: 	Welcome to Sign Up v1/Welcome to Sign Up v1
+=======================================
+Test Case ID: 		TC-002.01 - PASSED
+Title Expected/Actual: 	Sign Up/Sign Up
+=======================================
+Test Case ID: 		TC-003.01 - PASSED
+Element Dynamic quoat is present
+=======================================
+The current qoute is: The facts, though interesting, are irrelevant 
+=======================================
+Test Case ID: 		TC-003.02 - PASSED
+Element Button Reset is present
+=======================================
+Test Case ID: 		TC-003.03 - PASSED
+Element Button Submit is present
+=======================================
+The first qoute is: The facts, though interesting, are irrelevant 
+Test Case ID: 		TC-003.04 - PASSED
+The new qoute is : Never argue with a fool. He may be doing the same thing 
+=======================================
+Test Case ID: 		TC-003.05 - FAILED
+Quote length: 56
+=======================================
+Test Case ID: 		TC-004.01 - PASSED
+Element Image Link Facebook  is present
+=======================================
+Test Case ID: 		TC-004.02 - PASSED
+Element Image Link Twitter  is present
+=======================================
+Test Case ID: 		TC-004.03 - PASSED
+Element Image Link Flickr  is present
+=======================================
+Test Case ID: 		TC-004.04 - PASSED
+Element Image Link YouTube  is present
+=======================================
+Test Case ID: 		TC-004.05 - PASSED
+Title Expected/Actual: 	Facebook - Log In or Sign Up/Facebook - Log In or Sign Up
+=======================================
+Test Case ID: 		TC-004.06 - PASSED
+Title Expected/Actual: 	Twitter/Twitter
+=======================================
+Test Case ID: 		TC-004.07 - PASSED
+Title Expected/Actual: 	Flickr, a Yahoo company | Flickr - Photo Sharing!/Flickr, a Yahoo company | Flickr - Photo Sharing!
+=======================================
+Test Case ID: 		TC-004.08 - PASSED
+Title Expected/Actual: 	YouTube/YouTube
+=======================================
+Test Case ID: 		TC-005.01 - PASSED
+Element First Name  is present
+=======================================
+Test Case ID: 		TC-005.02 - PASSED
+Element Last Name is present
+=======================================
+Test Case ID: 		TC-005.03 - PASSED
+Element Email Address is present
+=======================================
+Test Case ID: 		TC-005.04 - PASSED
+Element Phone is present
+=======================================
+Test Case ID: 		TC-005.05 - PASSED
+Radio button Gender: ”Male” is present
+========= ==============================
+Test Case ID: 		TC-005.06 - PASSED
+Radio button Gender: ”Female” is present
+========= ==============================
+Test Case ID: 		TC-006.01 - PASSED
+Error Expected/Actual: 	Please enter First Name/Please enter First Name
+=======================================
+Test Case ID: 		TC-006.02 - PASSED
+Error Expected/Actual: 	Please enter Last Name/Please enter Last Name
+=======================================
+Test Case ID: 		TC-006.03 - PASSED
+Error Expected/Actual: 	Please enter Email Address/Please enter Email Address
+=======================================
+Test Case ID: 		TC-006.04 - PASSED
+Error Expected/Actual: 	Please enter Phone Number/Please enter Phone Number
+=======================================
+Test Case ID: 		TC-006.05 - PASSED
+First Expected/Actual: 	Serg/Serg
+Last Expected/Actual: 	Bezuglyy/Bezuglyy
+Email Expected/Actual: 	sergbe@outlook.com/sergbe@outlook.com
+Phone Expected/Actual: 	916-941-5523/916-941-5523
+=======================================
+Test Case ID: 		TC-006.06 - PASSED
+Element Back button is present
+=======================================
+Test Case ID: 		TC-006.06 - PASSED
+Back button redircts correctly
+========= ==============================
+Test Case ID: 		TC-007.01 - PASSED
+Element TimeStamp is present
+=======================================
+Online is date: May 30, 2016 
+Mon May 30 20:08:02 PDT 2016
+May 30, 2016
+Test Case ID: 		TC-007.02 - FAILED
+Date Online is not equal the Actual Date: 	May 30, 2016 /May 30, 2016
+========= ==============================
+Test Case ID: 		TC-008.01 - PASSED
+Element element State is present
+=======================================
+51
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+=======================================
+Test Case ID: 		TC-008.02 - PASSED
+The total number of States is: 51
+District of Columbia is present
+Test Case ID: 		TC-008.03 - PASSED
+========= ==============================
+Test Case ID: 		TC-009.01 - PASSED
+Element CheckBox Agreed is present
+=======================================
+Test Case ID: 		TC-010.01 - PASSED
+Element Copyrighte text is present
+=======================================
+Test Case ID: 		TC-011.01 - PASSED
+Element Client’s OS & Browser is present
+=======================================
+Test Case ID: 		TC-011.02 - PASSED
+OS X 10.11 El Capitan & Firefox 46 is matching OS X
+Test Case ID: 		TC-011.02 - PASSED
+OS X 10.11 El Capitan & Firefox 46 is matching 10.11
+Test Case ID: 		TC-011.02 - PASSED
+OS X 10.11 El Capitan & Firefox 46 is matching firefox
+========= ==============================
+Test Case ID: 		TC-012.01 - PASSED
+Element Current Location is present
+=======================================
+Test Case ID: 		TC-013.01 - PASSED
+Element Current Temperature is present
+=======================================
+Test Case ID: 		TC-013.01 - PASSED
+Submit button redirects to Conformation page 
+========= ==============================
+Test Case ID: 		TC-014.01 - FAILED
+Houston, we have the problem!
+========= ==============================
